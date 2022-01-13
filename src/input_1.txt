@@ -1,4 +1,4 @@
-13 8 1
+3 8 1
 high available
 abstract_2.txt
 abstract_7.txt

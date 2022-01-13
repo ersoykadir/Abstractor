@@ -1,21 +1,104 @@
-Thread A is calculating abstract_11.txt
-Thread E is calculating abstract_9.txt
-Thread B is calculating abstract_6.txt
-Thread C is calculating abstract_2.txt
-Thread F is calculating abstract_15.txt
-Thread D is calculating abstract_4.txt
+Thread A is calculating abstract_1.txt
+Thread B is calculating abstract_1.txt
+Thread F is calculating abstract_1.txt
+Thread J is calculating abstract_1.txt
+Thread L is calculating abstract_1.txt
+Thread G is calculating abstract_1.txt
+Thread N is calculating abstract_1.txt
+Thread R is calculating abstract_1.txt
+Thread  is calculating abstract_1.txt
+Thread E is calculating abstract_1.txt
+Thread D is calculating abstract_1.txt
+Thread K is calculating abstract_1.txt
+Thread C is calculating abstract_1.txt
+Thread M is calculating abstract_1.txt
+Thread H is calculating abstract_1.txt
+Thread O is calculating abstract_1.txt
+Thread P is calculating abstract_1.txt
+Thread Q is calculating abstract_1.txt
+Thread I is calculating abstract_1.txt
+Thread õ is calculating abstract_1.txt
+Thread z is calculating abstract_1.txt
+Thread Ç is calculating abstract_1.txt
+Thread ä is calculating abstract_1.txt
+Thread é is calculating abstract_1.txt
+Thread ì is calculating abstract_1.txt
+Thread £ is calculating abstract_1.txt
+Thread u is calculating abstract_1.txt
+Thread m is calculating abstract_1.txt
+Thread e is calculating abstract_1.txt
+Thread ` is calculating abstract_1.txt
+Thread T is calculating abstract_1.txt
+Thread S is calculating abstract_1.txt
+Thread { is calculating abstract_1.txt
+Thread } is calculating abstract_1.txt
+Thread v is calculating abstract_1.txt
+Thread y is calculating abstract_1.txt
+Thread x is calculating abstract_1.txt
+Thread r is calculating abstract_1.txt
+Thread ~ is calculating abstract_1.txt
+Thread p is calculating abstract_1.txt
+Thread t is calculating abstract_1.txt
+Thread É is calculating abstract_1.txt
+Thread q is calculating abstract_1.txt
+Thread n is calculating abstract_1.txt
+Thread Ö is calculating abstract_1.txt
+Thread Å is calculating abstract_1.txt
+Thread ã is calculating abstract_1.txt
+Thread Ü is calculating abstract_1.txt
+Thread Ä is calculating abstract_1.txt
+Thread â is calculating abstract_1.txt
+Thread ç is calculating abstract_1.txt
+Thread l is calculating abstract_1.txt
+Thread i is calculating abstract_1.txt
+Thread à is calculating abstract_1.txt
+Thread k is calculating abstract_1.txt
+Thread g is calculating abstract_1.txt
+Thread î is calculating abstract_1.txt
+Thread è is calculating abstract_1.txt
+Thread f is calculating abstract_1.txt
+Thread ñ is calculating abstract_1.txt
+Thread ú is calculating abstract_1.txt
+Thread í is calculating abstract_1.txt
+Thread ó is calculating abstract_1.txt
+Thread ë is calculating abstract_1.txt
+Thread û is calculating abstract_1.txt
+Thread § is calculating abstract_1.txt
+Thread ö is calculating abstract_1.txt
+Thread ü is calculating abstract_1.txt
+Thread ô is calculating abstract_1.txt
+Thread d is calculating abstract_1.txt
+Thread a is calculating abstract_1.txt
+Thread ° is calculating abstract_1.txt
+Thread Z is calculating abstract_1.txt
+Thread b is calculating abstract_1.txt
+Thread ¢ is calculating abstract_1.txt
+Thread \ is calculating abstract_1.txt
+Thread X is calculating abstract_1.txt
+Thread ^ is calculating abstract_1.txt
+Thread [ is calculating abstract_1.txt
+Thread U is calculating abstract_1.txt
+Thread ] is calculating abstract_1.txt
+Thread V is calculating abstract_1.txt
+Thread _ is calculating abstract_1.txt
+Thread ò is calculating abstract_1.txt
+Thread á is calculating abstract_1.txt
+Thread ê is calculating abstract_1.txt
+Thread † is calculating abstract_1.txt
+Thread Y is calculating abstract_1.txt
+Thread h is calculating abstract_1.txt
+Thread o is calculating abstract_1.txt
+Thread ï is calculating abstract_1.txt
+Thread w is calculating abstract_1.txt
+Thread | is calculating abstract_1.txt
+Thread Ñ is calculating abstract_1.txt
+Thread å is calculating abstract_1.txt
+Thread ù is calculating abstract_1.txt
+Thread s is calculating abstract_1.txt
+Thread j is calculating abstract_1.txt
 ###
 Result 1:
-File: abstract_4.txt
-Score: 0.0133
-Summary:  new guidelines are required in dental clinics to avoid contagion caused by crossinfections 
+File: abstract_1.txt
+Score: 0.0118
+Summary: since its emergence in december 2019 corona virus disease 2019 covid19 has impacted several countries affecting more than 90 thousand patients and making it a global public threat .
 ###
-Result 2:
-File: abstract_2.txt
-Score: 0.0110
-Summary:  this paper therefore aims to provide a comprehensive review of the current recommendations on the use of mouthwashes against the covid19 pandemic and to analyse the advantages and disadvantages of most conventional antiseptic mouthwashes used in dentistry 
-###
-Result 3:
-File: abstract_6.txt
-Score: 0.0074
-Summary:  the world health organization declared the pandemic diffusion of covid19 and restrictive measures to limit contagion have been taken in several countries 
