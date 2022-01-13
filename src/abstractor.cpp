@@ -1,3 +1,17 @@
+/**
+ * @file abstractor.cpp
+ * @author Kadir Ersoy (kadir.ersoy@boun.edu.tr)
+ * @brief This project utilizes multithreading to search multiple text files with a query and find which text is somewhat
+ * similar to what the user query is looking for. Since looking through each word in the text files is time consuming, it creates
+ * threads and each thread does the searching job consecutively for different files. Also utilized mutexes to avoid race-conditions
+ * for the shared variables between the threads.
+ * @version 0.1
+ * @date 2022-01-13
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -81,18 +95,6 @@ bool compareByLength(const log *a, const log *b)
 {
     return a->similarity > b->similarity;
 }
-
-/**
- * make an abstracts list
- * make a threads list
- * have a counter
- * traverse abstracts
- * create thread with next element in abstractlist with counter%thread_num
- * if counter != 0 and counter % threadnum == 0
- * traverse thread list
- * 1) 	call join for all of them(??? should I wait for each one of them)
- * 2)	call join for thread_0 and || create thread_0 with next abstract || call join for next thread
- */
 
 /**
  * @brief Tokenizes the given string with given seperator and fills it to the given list.
